@@ -2,6 +2,7 @@ package ws.abhis.education.leetcode;
 
 /**
  * https://code.abhis.ws/Tech_Interviews/Algorithms_Maven/issues/92
+ * https://code.abhis.ws/Tech_Interviews/Algorithms_Maven/issues/93
  */
 public class NumArray {
     private int[] tree;
